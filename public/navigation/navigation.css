@@ -1,0 +1,9 @@
+/* Les décoration pour la navidation dans la page de l'article */
+
+    .page {
+        display: none;
+    }
+
+    .page.active {
+        display: block;
+    }
